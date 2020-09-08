@@ -1,5 +1,7 @@
 # uyoumimic
 
+<img src="http://bt.uyou.org.cn:518/down/o6CDHgSwkuiM" height="412px">
+
 * **这是一个 kwgt 拟物小部件**
 * **设计灵感来源于坚果**
 
